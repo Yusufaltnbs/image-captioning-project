@@ -1,5 +1,10 @@
 Image Captioning with DenseNet201 and LSTM
 
+model.pkl : https://drive.google.com/file/d/1JSRxn5HDknsCtl7GOfBeZ9zAUeSZLPDn/view?usp=drive_link
+feature_extractor.keras : https://drive.google.com/file/d/1raDUvHG8CINCuLVw9OmSHkq_pHRkE6CZ/view?usp=sharing
+
+
+
 This project is an image captioning system built for the OBSS Internship 2025 competition. It uses a DenseNet201 pretrained convolutional neural network as a feature extractor to extract image features, combined with an LSTM-based language model to generate natural language captions for images.
 
 The project includes:
