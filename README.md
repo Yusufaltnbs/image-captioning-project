@@ -1,5 +1,10 @@
 Image Captioning with DenseNet201 and LSTM
 
+
+ The sample.pdf file contains sample images and explanations of the functions related to the image.
+
+datasets = https://www.kaggle.com/competitions/obss-intern-competition-2025/data
+
 model.pkl : https://drive.google.com/file/d/1JSRxn5HDknsCtl7GOfBeZ9zAUeSZLPDn/view?usp=drive_link
 
 
